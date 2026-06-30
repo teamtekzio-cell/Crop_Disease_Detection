@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset (too large for GitHub)
+dataset/
+data/
+*.csv
+*.zip
+
+# Hugging Face cache
+.cache/
+
+# Model files (large)
+*.h5
+*.pkl
+*.keras
+saved_model/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
