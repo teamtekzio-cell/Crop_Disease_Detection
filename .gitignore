@@ -19,7 +19,6 @@ data/
 # Model files (large)
 *.h5
 *.pkl
-*.keras
 saved_model/
 
 # Environment variables
