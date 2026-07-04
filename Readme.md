@@ -4,7 +4,6 @@ No problem! Let's create it quickly before pushing! 😊
 
 ## 🛠️ Create `README.md`
 
-Create a new file in your **project root** (same level as `run.py`):
 **File name:** `README.md`
 
 Paste this:
